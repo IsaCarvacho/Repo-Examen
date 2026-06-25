@@ -18,3 +18,8 @@ Activar la cámara web y vernos en pantalla --> Como esta es una experiencia inm
 ### Pensamiento computacional
 
 ### Referentes   
+
+Imagenes que aparecen cuando buscamos sobre disforia  
+![1](https://www.cosmos.so/e/1932719687)
+Usamos el trabajo de nuestros compañeres Javiera Corral y Julio Andreé para saber cómo era el código para el uso de cámara web con imagen  
+[TrabajoCorralAndree](https://editor.p5js.org/StarBerryChiscake/sketches/9coSmJDBw)
