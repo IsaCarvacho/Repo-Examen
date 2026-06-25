@@ -8,6 +8,7 @@ Elegimos representarlo a través de la imagen de una persona mirándose al espej
 
 ### Explicación decisiones de diseño en la programación  
 Imagen en blanco y negro --> Representar soledad y tristeza de no pertenecer en tu propio cuerpo.  
+![BlancoNegro](https://i.pinimg.com/736x/56/76/a1/5676a12097129c4f23d0bbbc8d6eaa25.jpg)  
 Imagen borrosa --> Tapar justo el pecho de la persona, ya que la sociedad nos define generalmente por nuestros órganos sexuales. También tapar los ojos, para representar no querer verse al espejo.  
 Lluvia de mensajes --> Representar que los pensamientos no los podemos controlar y solo se inmiscuyen en nuestra vida.  
 Partículas puntiagudas --> Estas partículas representan el estrés y la confusión al experimentar disforia.  
