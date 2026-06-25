@@ -20,6 +20,6 @@ Activar la cámara web y vernos en pantalla --> Como esta es una experiencia inm
 ### Referentes   
 
 Imagenes que aparecen cuando buscamos sobre disforia  
-![1](https://cdn.cosmos.so/1a29fa7f-9d69-4acd-982c-100ad3b67c54?format=webp)  
+![1](https://i.pinimg.com/736x/f5/e9/43/f5e943bf083f05c147c1314212d60acd.jpg)  
 Usamos el trabajo de nuestros compañeres Javiera Corral y Julio Andreé para saber cómo era el código para el uso de cámara web con imagen  
 [TrabajoCorralAndree](https://editor.p5js.org/StarBerryChiscake/sketches/9coSmJDBw)
