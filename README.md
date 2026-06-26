@@ -1,7 +1,7 @@
 # Repo-Examen  
 
 ## Nombre Proyecto  
-### Por Ayelen Vasquez e Isabella Carvacho  
+### Por Ayelen Vásquez e Isabella Carvacho  
 
 Nuestro proyecto se basa en crear una experiencia de lo que puede sentir una persona con disforia, el vivir en un cuerpo que no se siente propio y todos los pensamientos que conlleva pasar por una crisis de disforia. Terminamos el proyecto con una pequeña estadística y un mensaje reflexivo.  
 Elegimos representarlo a través de la imagen de una persona mirándose al espejo, tanto su cuerpo como sus ojos no se muestran, representando una manera de cómo se debe sentir una persona con disforia al verse al espejo. De a poco empiezan a aparecer mensajes, esto es lo que estaría pensando la persona con disforia al no reconocer el cuerpo en el que habita como suyo. Después se ven partículas puntiagudas acercándose a la persona para representar la presión y agobio que esta siente. Finalmente, llegamos a una pantalla que activa la cámara y nos muestra el mensaje de "La prevalencia registrada de disforia de género aumentó sustancialmente en niños y jóvenes entre 2011 y 2021, especialmente en mujeres. El tratamiento psicológico, junto a una red de apoyo, son cruciales para acompañar a una persona con disforia de género."  
@@ -27,5 +27,6 @@ Usamos el trabajo de nuestros compañeres Javiera Corral y Julio Andreé para sa
 [TrabajoCorralAndree](https://editor.p5js.org/StarBerryChiscake/sketches/9coSmJDBw)  
 
 ### Diagrama de flujo*  
+![diagrama](https://drive.google.com/file/d/1lrte4rfQD57Ksx5y2H1bDolML5f2_Df8/view)
 
 Link a nuestro examen en p5.js
