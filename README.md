@@ -18,6 +18,8 @@ Activar la cámara web y vernos en pantalla --> Como esta es una experiencia inm
 ### Input/Output  
 
 | Input | --> | Output |
+| :--- | :---: | ---: |
+
 
 ### Referentes   
 
