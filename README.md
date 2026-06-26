@@ -35,7 +35,8 @@ Activar la cámara web y vernos en pantalla --> Como esta es una experiencia inm
 | imageMode(CENTER); | --> | Centrar la imagen al centro del lienzo | 
 | if (estado > 3) { estado = 0; } | --> | Sí el estado llega a mayor que 3, cambia a 0 y reinicia las pantallas |
 
-
+### Pensamiento Computacional  
+El pensamiento computacional estuvo presente durante todo el desarrollo de la pieza, ya que tuvimos que dividir la experiencia en distintos estados para organizar cada interacción y facilitar la programación. También identificamos patrones repetitivos, como las frases y las figuras, utilizando arrays y loops (for) para gestionar varios elementos de manera más eficiente y a la vez. También trabajamos la abstracción al enfocarnos solo en la información que realmente necesitábamos. Por ejemplo, aunque el reconocimiento facial detecta muchos puntos del rostro, utilizamos únicamente los necesarios para ubicar la imagen en la frente, evitando procesar datos que no aportaban a la interacción. A través de distintos algoritmos controlamos los cambios de estado, el movimiento de los elementos visuales y la respuesta a las acciones de la usuaria. Finalmente, fue necesario analizar y corregir problemas relacionados con la adaptación a diferentes tamaños de pantalla, lo que implicó probar, ajustar y reorganizar partes del código para lograr una experiencia interactiva coherente y funcional.
 
 ### Referentes   
 
