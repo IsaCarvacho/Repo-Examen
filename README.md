@@ -26,7 +26,7 @@ Imagenes que aparecen cuando buscamos sobre disforia
 Usamos el trabajo de nuestros compañeres Javiera Corral y Julio Andreé para saber cómo era el código para el uso de cámara web con imagen  
 [TrabajoCorralAndree](https://editor.p5js.org/StarBerryChiscake/sketches/9coSmJDBw)  
 
-### Diagrama de flujo*  
-[diagrama](https://drive.google.com/file/d/1lrte4rfQD57Ksx5y2H1bDolML5f2_Df8/view)
+### Diagrama de flujo  
+[Diagrama](https://drive.google.com/file/d/15V9wIHzHXrYHxolZ6_Q11Yz4S9Yy21BD/view)
 
 Link a nuestro examen en p5.js
