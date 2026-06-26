@@ -24,6 +24,16 @@ Activar la cámara web y vernos en pantalla --> Como esta es una experiencia inm
 | video = createCapture(VIDEO); | --> | Activa la cámara web del usuario |
 | random(); | --> | Genera un valor random al elemento que se lo estamos aplicando |
 | push(); y pop(); | --> | Protege las configuraciones de los valores que estan adentro |
+| resizeCanvas(windowWidth, windowHeight); | --> | Ajustar el tamaño de pantalla al deseado |
+|  background(x); | --> | Elegir el color de fondo del lienzo en valores RGB | 
+|  pantalla1/2/3/...(); | --> | Crear estados | 
+|  fill(x); | --> | Rellenar con color RGB una figura | 
+| textAlign(CENTER, CENTER); | --> | Alinear el texto al centro | 
+| textFont(x); | --> | Elegir tipografía para el texto | 
+| translate(x); | --> | Transladar una figura |
+| rotate (x); | --> | Rotar una figura |
+| imageMode(CENTER); | --> | Centrar la imagen al centro del lienzo | 
+| if (estado > 3) { estado = 0; } | --> | Sí el estado llega a mayor que 3, cambia a 0 y reinicia las pantallas |
 
 
 
