@@ -1,4 +1,4 @@
-# Repo-Examen  
+# Examen-Vasquez-Carvacho 
 
 ## Viviendo la disforia  
 ### Por Ayelen Vásquez e Isabella Carvacho  
@@ -19,6 +19,12 @@ Activar la cámara web y vernos en pantalla --> Como esta es una experiencia inm
 
 | Input | --> | Output |
 | :--- | :---: | ---: |
+| loadImage, loadFont | --> | Cargar recursos externos | 
+| createCanvas(windowWidth, windowHeight); | --> | Redimensionar el lienzo de p5.js |
+| video = createCapture(VIDEO); | --> | Activa la cámara web del usuario |
+| random(); | --> | Genera un valor random al elemento que se lo estamos aplicando |
+| push(); y pop(); | --> | Protege las configuraciones de los valores que estan adentro |
+
 
 
 ### Referentes   
