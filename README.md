@@ -1,6 +1,6 @@
 # Repo-Examen  
 
-## Nombre Proyecto  
+## Viviendo la disforia  
 ### Por Ayelen Vásquez e Isabella Carvacho  
 
 Nuestro proyecto se basa en crear una experiencia de lo que puede sentir una persona con disforia, el vivir en un cuerpo que no se siente propio y todos los pensamientos que conlleva pasar por una crisis de disforia. Terminamos el proyecto con una pequeña estadística y un mensaje reflexivo.  
@@ -15,9 +15,9 @@ Activar la cámara web y vernos en pantalla --> Como esta es una experiencia inm
 ![Collage](https://i.pinimg.com/736x/dc/d9/18/dcd91847c344c3b69411d1037ad38533.jpg)
 
 
-### Input/Output *  
+### Input/Output  
 
-### Pensamiento computacional *
+| Input | --> | Output |
 
 ### Referentes   
 
