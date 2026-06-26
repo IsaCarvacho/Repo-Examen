@@ -27,6 +27,6 @@ Usamos el trabajo de nuestros compañeres Javiera Corral y Julio Andreé para sa
 [TrabajoCorralAndree](https://editor.p5js.org/StarBerryChiscake/sketches/9coSmJDBw)  
 
 ### Diagrama de flujo*  
-![diagrama](https://drive.google.com/file/d/1lrte4rfQD57Ksx5y2H1bDolML5f2_Df8/view)
+[diagrama](https://drive.google.com/file/d/1lrte4rfQD57Ksx5y2H1bDolML5f2_Df8/view)
 
 Link a nuestro examen en p5.js
